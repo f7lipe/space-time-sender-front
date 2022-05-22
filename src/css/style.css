@@ -1,0 +1,10 @@
+body {
+  /* font-family: "SoDo Sans SemiBold"; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.root {
+    background-color: white;
+}
