@@ -39,7 +39,7 @@ width: 80%;
 height: 20px;
 color: gray;
 box-sizing: border-box;
-border: 2px solid #ccc;
+border: 1px solid #ccc;
 border-radius: 4px;
 font-size: 16px;
 background-color: white;
